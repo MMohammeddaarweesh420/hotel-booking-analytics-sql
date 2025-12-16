@@ -27,3 +27,46 @@ The main goals of this project are:
 
 ## 📂 Project Structure
 
+✅ `data/` → Dataset used for analysis  
+✅ `sql/` → SQL queries used to analyze the data  
+✅ `docs/` → PDF summary with key insights and business recommendations
+
+---
+
+## 🛠 Tools & Technologies
+
+- **SQL (MySQL-compatible queries)**
+- **Relational Data Analysis**
+- **Business Intelligence Thinking**
+- **Spreadsheet / PDF Reporting**
+
+---
+
+## 📌 Key Insights
+
+Some of the findings from the analysis include:
+
+- Higher cancellation rates for bookings with longer lead times
+- Direct bookings tend to be more reliable
+- Premium room types generate higher ADR
+- Families tend to stay longer and generate higher total revenue
+
+---
+
+## 📈 Strategic Recommendations
+
+Based on the analysis, potential actions include:
+
+- Tiered deposit policies for bookings with long lead times
+- Incentives for direct bookings
+- Dynamic pricing strategies for peak seasons
+- Loyalty program targeting frequent guests
+
+---
+
+## 📁 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MMohammeddaarweesh420/hotel-booking-analytics-sql.git
+
